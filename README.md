@@ -1,7 +1,9 @@
-# MediHunt- One stop solution for all your medical needs
-Search medicines you need and get results from top 4 indian pharmacies.
+# MediHunt
+## One Stop Solution for all your Medical Needs.
 
-To install:
+Search medicines you need and get results from top 4 Indian Pharmacies.
+
+To Install / Requirement:
 ```
 $ pip install flask  
 $ pip install selenium  
